@@ -1,0 +1,13 @@
+.graph{
+	width: 305px;
+	height: 234px;
+	background:#ffffff;
+	border-radius: 15px;
+	margin-left: 21px;
+	margin-top: 21px;
+}
+.graph img{
+	padding: 5px;
+	height: 200px;
+	width: 295px;
+}

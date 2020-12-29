@@ -1,0 +1,99 @@
+.notifications{
+	width: 303px;
+	height: 599px;
+    color:black; 
+	background: #FFFFFF;
+	border-radius: 15px 15px;
+}
+.btn-group{
+	border-radius: 15px;
+	margin-top: 5px;
+	display: table;
+	width: 300px;
+	height: 53px;
+	padding:0px;
+  background-color: #FFFFFF; /* Green background */
+  /* Green border */
+  color: black; /* White text */
+   /* Some padding */
+  cursor: pointer; /* Pointer/hand icon */
+  float: left; /* Float the buttons side by side */
+}
+.notificationbut{
+	background:#f1f1f1; 
+	display: inline-block;
+	text-decoration: none;
+	border: 1px solid lightgrey;
+	padding: 15px 10px 8px 15px;
+	width: 168px; 
+    font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	line-height: 24px;
+    color: #494949;
+}
+.eventbut{
+	background:#f1f1f1; 
+	display: inline-block;
+	text-decoration: none;
+	border: 1px solid lightgrey;
+	padding: 15px 10px 8px 15px;
+	width: 68px; 
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	line-height: 24px;
+    color: #494949;
+}
+
+a:hover{
+	background:#FFFFFF;
+}
+.notificationBox{
+	margin-top:10px;
+	margin-left: 1453px;
+	margin-left: 
+}
+
+.adminImage{
+	display: flex;
+	align-self: center;
+}
+
+.media{
+  display: inline-flex;
+}
+.media-body{
+	text-align: left;
+}
+
+.adminBody{
+	width: 45px;
+	height: 50px;
+	background: orange;
+	margin-top: 10px;
+	margin-right: 10px;
+	text-align: left;
+	border-radius: 10px; 
+}
+h4{
+	margin:2px;
+}
+.notice{
+	margin:0px;
+	font-size: 90%;
+}
+hr{
+	color: lightgrey; 
+	margin: 0px; 
+}
+.time{
+	margin:2px;
+	font-size: 90%; 
+}
+.view{
+	margin-top:20px;
+	font-size: 90%; 
+}

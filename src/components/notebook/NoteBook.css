@@ -1,0 +1,99 @@
+.notebook{
+	background: #E5E5E5;
+}
+
+.write{
+	width: 1083px;
+	height: 204px;
+	border: 1px solid lightgrey;
+	margin-left: 393px;
+	margin-top: 42px;
+	background:#ffffff;
+	border-radius: 15px;
+	text-align: left; 
+}
+
+input{
+	padding: 0px 18px;
+	border: 1px solid #FAFAFA;
+	width: 1010px;
+	height: 98px;
+	margin: 10px;
+	border-radius: 15px;
+	background: #FAFAFA; 
+
+}
+
+.cancel{
+	color: #EF3E36;
+	font-size: 150%;
+	font-family: SF Pro Display;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left; 
+    margin-left: 27px;
+    padding: 21px
+}
+.buton{
+	margin-top: 10px;
+	display: flex;
+}
+.share{
+	background:  #EF3E36;
+	color:#ffffff;
+	width: 140px;
+	height: 50px;
+	border-color:#EF3E36; 
+	border-radius: 11px 0px 0px 11px;
+	font-size: 150%;
+
+}
+.share1{
+	width: 40px;
+	height: 50px;
+	background: #FFC480;
+	border-color: #FFC480;
+	border-radius: 0px 11px 11px 0px;
+}
+.Shr{
+	display: flex;
+	text-align: right;
+	margin-left: 700px;
+	padding: 15px;
+}
+
+.contentBody{
+	width: 1083px;
+	height: 150px;
+	border: 1px solid lightgrey;
+	margin-left: 393px;
+	margin-top: 42px;
+	background:#ffffff;
+	border-radius: 15px;
+	text-align: left; 
+	display: flex;
+}
+.body1{
+	width: 70px;
+	height:80px;
+	background: orange;
+	margin: 10px;
+	text-align: left; 
+	border-radius: 10px;
+}
+.admin1{
+	font-size: 150%;
+	padding: 8px;
+}
+.notice1{
+	margin: 0px;
+	font-size: 80%;
+	padding: 1px; 
+}
+.d-flex{
+	display: flex;
+}
+.time{
+	text-align: right;
+	margin-left: 800px;
+}

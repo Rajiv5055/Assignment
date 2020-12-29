@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  display: grid;
 }
 
 .App-logo {
@@ -35,4 +36,24 @@
   to {
     transform: rotate(360deg);
   }
+}
+.Note{
+  display: inline-flex;
+  width: 1050px;
+  margin-left: -210px;
+}
+.graph{
+  margin-top: 0px;
+  margin-left: 21px;
+}
+.monthlyPerformance{
+  margin-left: 21px;
+}
+.container{
+  display: grid;
+}
+
+.last{
+  width: 1804px;
+  height:45px;
 }

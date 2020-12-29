@@ -1,0 +1,45 @@
+.navrect{
+	position: absolute;
+	width: 315px;
+	height: 1100px;
+	left: 0px;
+	top: 0px;
+
+	background: #FF6C40;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 20px 0px;
+  width: 200px;
+  background-color: #f1f1f1;
+}
+
+li a {
+  display: block;
+  text-align: left;
+  color: #000;
+  padding: 23px 68px 23px 96px;
+  text-decoration: none;
+font-family: SF Pro Display;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 36px;
+color: #FFFFFF;
+
+}
+li a:hover {
+  background: #FFC480;;
+  color: white;
+}
+
+.imGIcon{
+position: absolute;
+width: 36px;
+height: 36px;
+left: 30px;
+}
+.toP1{	top:30px; } .toP2{ top: 111px; } .toP3{ top:190px; }
+

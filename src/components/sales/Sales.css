@@ -1,0 +1,77 @@
+.sale{
+	position: absolute;
+	width:1029px;
+	height:495px;
+	left:377px;
+	top:105px;
+	background: #FFFFFF;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.05);
+	border-radius: 15px;
+}
+header{
+	display: flex;
+	height: 36px;
+	left: 2.04%;
+	right: 60.93%;
+	top: calc(50% - 36px/2 - 208.5px);
+	margin:21px;
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	line-height: 36px;
+	/* identical to box height */
+	color: #593636;
+}
+
+.saleCalc{
+	position: absolute;
+	left: 82.22%;
+	right: 0%;
+	top: 0%;
+	bottom: 0%;
+
+	background: #FF6C40;
+	border-radius: 0px 15px 15px 0px;
+}
+.dateDash{
+	display: flex;
+	height: 36px;
+	margin-left: 21px;
+
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	line-height: 36px;
+	/* identical to box height */
+
+
+	color: #FFFFFF;
+
+	mix-blend-mode: normal;
+	opacity: 0.8;
+}
+.salebox{
+	text-align: left;
+	margin:21px;
+	display:block;
+	font-size: 20px;
+	color:#593636;
+	padding: 10px 20px;
+	background: #FFE700;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.05);
+	border-radius: 15px;
+}
+.two{
+background: #1FFD77; 
+}
+.val{
+	padding: 
+}
+img{
+	margin-top: 21px;
+	width : 755px;
+	height : 365px;
+	margin-right: 200px;
+}
