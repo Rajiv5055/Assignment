@@ -57,7 +57,7 @@ input{
 }
 .Shr{
 	display: flex;
-	text-align: right;
+	text-align: center;
 	margin-left: 700px;
 	padding: 15px;
 }
@@ -93,7 +93,7 @@ input{
 .d-flex{
 	display: flex;
 }
-.time{
+.time1{
 	text-align: right;
 	margin-left: 800px;
 }

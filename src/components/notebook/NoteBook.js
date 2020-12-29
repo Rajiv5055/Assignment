@@ -54,7 +54,7 @@ class NoteBook extends React.Component{
                 <div className='media-body'>
                 <div className='d-flex'>
                   <h4 className='admin1'>Admin</h4>
-                  <div className='time'>
+                  <div className='time1'>
                   <p>12.50pm</p>
                  </div>
                  </div>
