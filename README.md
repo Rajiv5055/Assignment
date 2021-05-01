@@ -1,3 +1,10 @@
+
+
+Steps to run:
+1) download zipcode and unzip it.
+2) go to root directory via command prompt
+3) "npm intsall"
+4) "npm start"
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
