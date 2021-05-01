@@ -1,0 +1,88 @@
+.card {
+	width: 100%;
+	align-items: center;
+	display: inline-block;
+	justify-content: center;
+	background:red;
+	height: 22rem; 
+}
+.card:hover {
+	transform: scale(1.01);
+}
+
+
+.cardtype {
+	display:flex;
+	align-items: center;
+	justify-content: center;
+	background: black;
+	width: 100%;
+	height: 20rem;
+}
+
+.card img {
+	width: 100%;
+	height: 12rem;
+}
+
+.corousel {
+	background: black;
+}
+
+.form-control {
+	background: grey;
+	color: white;
+}
+.corousel img {
+	height: 500px;
+	width: 100%;
+	margin: 0px;
+}
+.movies {
+	background: black; 
+}
+.card1 {
+	height: 15rem;
+	width: 25%;
+}
+.shareoptions {
+	display: flex;
+}
+
+.shareoptions a{
+	padding: 5px;
+}
+.form-control {
+	background: grey;
+}
+.sign {
+	width: 100%;
+	height: 800px;
+	opacity: 80%;
+	padding: 200px;
+	background-image: url('./Images/net.jpg');
+}
+
+.footer {
+	height: 200px;
+} 
+.footer .navbar-nav {
+	display: inline-block;
+}
+.card-title {
+	padding: 0px;
+}
+.frontback {
+	background-image: url('./Images/NetBack.jpg');
+	height: 700px;
+	padding:200px;
+	color: white;
+	
+}
+.frontback .btn {
+	padding :10px 40px;
+	margin: 0px; 
+}
+.nav-link : hover {
+ color: red;
+}
